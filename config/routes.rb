@@ -5,6 +5,8 @@ SampleApp::Application.routes.draw do
 
   get "pages/about"
   
+  get "pages/help"
+  
   get "pages/"
 
   # The priority is based upon order of creation:
